@@ -1,3 +1,6 @@
+## 📘 ScrollVars v1.0.0
+
+```js
 /*!
  * ScrollVars v1.0.0
  * (c) 2025 ng.inc / MIT
